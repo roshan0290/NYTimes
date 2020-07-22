@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">New York Times</string>
+
+
+    <string name="no_internet">No Internet Connection</string>
+    <string name="title_activity_description">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>

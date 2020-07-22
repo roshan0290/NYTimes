@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="persimmon">#FF6347</color>
+    <color name="black">#000000</color>
+    <color name="cardinal">#CE171F</color>
+    <color name="alabaster">#F8F8F8</color>
+    <color name="white_alpha_32">#52FFFFFF</color>
+    <color name="manatee">#9098B1</color>
+    <color name="mine_shaft">#333333</color>
+    <color name="transparent">#00000000</color>
+    <color name="mercury">#E2E2E2</color>
+    <color name="black_alpha_33">#54000000</color>
+    <color name="gallery">#EEEEEE</color>
+    <color name="shadowColor">#707070</color>
+
+
+
+</resources>
